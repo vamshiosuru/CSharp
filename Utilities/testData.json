@@ -1,0 +1,9 @@
+﻿{
+
+  "username": "rahulshettyacademy",
+  "password": "learning",
+  "username_invalid": "rahulshettyacademy1",
+  "password_invalid": "learning1",
+  "products": [ "iphone X", "Blackberry" ]
+
+}
